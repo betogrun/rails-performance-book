@@ -13,7 +13,7 @@ gem "sprockets-rails"
 gem "pg", "~> 1.4"
 
 # Use MySQL as the database for Active Record
-gem "mysql2"
+# gem "mysql2"
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 6.0"
